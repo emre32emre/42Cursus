@@ -16,3 +16,6 @@
 [submodule "pipex"]
 	path = pipex
 	url = git@github.com:emre32emre/pipex.git
+[submodule "push_swap"]
+	path = push_swap
+	url = git@github.com:emre32emre/push_swap.git
