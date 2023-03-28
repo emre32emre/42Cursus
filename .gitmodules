@@ -1,3 +1,12 @@
 [submodule "libft"]
 	path = libft
 	url = git@github.com:emre32emre/libft.git
+[submodule "get_next_line"]
+	path = get_next_line
+	url = git@github.com:emre32emre/get_next_line.git
+[submodule "ft_printf"]
+	path = ft_printf
+	url = git@github.com:emre32emre/ft_printf.git
+[submodule "Born2beroot"]
+	path = Born2beroot
+	url = git@github.com:emre32emre/Born2beroot.git
